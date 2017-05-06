@@ -16,7 +16,6 @@ tableau = ["Dorian", "Alex", "Paul"];
 
 contacts = [{
     prenom: "Dorian",
-
     nom: "Caleau",
     numero: "0123456789"
 }, {
